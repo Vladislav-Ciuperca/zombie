@@ -1,0 +1,14 @@
+Suoni registrati usati nel gioco (modelli/suoni.json, costruito con tools/suoni.py da tools/suoni_lista.json)
+Tutti CC0 1.0 (pubblico dominio, http://creativecommons.org/publicdomain/zero/1.0/): uso libero anche commerciale, citazione non obbligatoria.
+
+- Spari: "The Free Firearm Sound Library" (Ben Jaszczak, Brian Nelson, Kevin Heras, Matthew Nanney)
+  https://opengameart.org/content/the-free-firearm-sound-library — file "Prepared SFX Library.7z"
+  Usati: Walther PPQ, 1911, Smith & Wesson 642, Carl Gustav M45, PPSh, AR-15, AK-47, SKS, Marlin 336, Tikka T3, Mosin Nagant,
+  Benelli Nova, Winchester Model 12, Springfield 1917 (sparo vicino; per alcuni anche a media distanza).
+- Zombie: "Zombies Sound Pack" di artisticdude — https://opengameart.org/content/zombies-sound-pack (zombies.zip)
+  e "Zombie moans" di Darsycho — https://opengameart.org/content/zombie-moans
+- Passi, impatti, porte, oggetti, esplosioni, armi speciali: Kenney (www.kenney.nl) "Impact Sounds", "RPG Audio", "Sci-fi Sounds".
+
+Per rifare modelli/suoni.json: scaricare ed estrarre i pacchetti in una cartella con le sottocartelle
+guns/ (la libreria degli spari), zombie/ (zombies.zip), zmoan/ (zombie-moans.ogg), impact/, rpg/, scifi/ (zip di Kenney),
+poi: py tools/suoni.py costruisci <cartella>

@@ -1,0 +1,31 @@
+Create all the modular wall and room pieces listed below for a first-person zombie shooter in the style of Call of Duty Black Ops Zombies (abandoned prisons and a steel foundry, 1930s to 1960s).
+
+RULES FOR EVERY MODEL
+- Do not recreate a model that already exists. Skip it.
+- Modular pieces on a 1 meter grid: wall panels are exactly 1 m wide, 3 m tall and at most 0.2 m thick, with a flat back, so they can be placed side by side on top of existing walls.
+- Maximum 2000 faces per piece. Triangle topology.
+- Realistic style, PBR textures, 1024 px textures, worn, dirty and weathered, horror atmosphere.
+- One piece per model, centered, no ground.
+- No readable text, letters, words or numbers anywhere: use scratches, tally marks, stains, handprints and pictures only.
+- Export .glb with the given file name.
+
+NEGATIVE: text, letters, words, numbers, graffiti lettering, logo, watermark, base, pedestal, ground plane, multiple objects, cartoon, toy, low quality
+
+PIECES (file | prompt)
+kit_muro_carcere.glb | Prison wall panel, painted concrete two-tone dark green bottom and cream top, peeling paint, cracks and water stains.
+kit_muro_graffi.glb | Prison wall panel, concrete with scratched tally marks counting days, scratches and crude carved drawings, peeling paint.
+kit_muro_sangue.glb | Wall panel of dirty concrete with bloody handprints and smeared blood streaks dripping down.
+kit_muro_mattoni.glb | Industrial red brick wall panel, soot stains, missing bricks.
+kit_muro_buco.glb | Concrete wall panel with a broken hole in the middle showing rebar and bricks, rubble at the base.
+kit_muro_manifesti.glb | Prison wall panel with torn old paper notices and posters showing only pictures and no words.
+kit_muro_tubi.glb | Wall panel with exposed rusty pipes, valves and electrical conduit running across.
+kit_muro_piastrelle.glb | Wall panel of white ceramic tiles, cracked and missing, mold and grime.
+kit_muro_lamiera.glb | Industrial wall panel made of corrugated metal sheets, rust and soot.
+kit_sbarre_cella.glb | Prison cell bars section 1 m wide and 3 m tall, vertical iron bars with horizontal braces, peeling paint.
+kit_porta_cella.glb | Sliding prison cell door 1 m wide and 2.5 m tall made of iron bars with a lock box.
+kit_pilastro.glb | Square concrete support pillar 0.6 m wide and 4 m tall, chipped corners with exposed rebar.
+kit_ringhiera.glb | Steel catwalk railing section 1 m long, rusty.
+kit_passerella.glb | Steel grate catwalk floor section 1 m by 1 m, rusty.
+kit_scala_ferro.glb | Steep industrial steel staircase with handrails, 3 m tall, rusty.
+kit_macerie.glb | Pile of concrete rubble and broken bricks with twisted rebar, 1.5 m wide.
+kit_tubo_soffitto.glb | Straight section of thick rusty industrial pipe 2 m long with brackets and a flange.

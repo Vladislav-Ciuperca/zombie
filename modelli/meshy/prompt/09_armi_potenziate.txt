@@ -1,0 +1,11 @@
+OPTIONAL. Use the Retexture tool on each finished weapon model from 01_armi.txt (same model, only new textures).
+
+RULES
+- Do not change the shape or the number of faces: keep the same model, the same separated moving parts and their names.
+- If an upgraded version already exists, skip it.
+- Save each one with "_forgia" added to the file name, for example arma_toro_forgia.glb.
+
+RETEXTURE PROMPT (the same for every weapon)
+Same weapon with an upgraded forged camo: blackened steel with glowing orange molten veins and engraved arcane patterns, polished brass details, realistic PBR, no readable text.
+
+NEGATIVE: text, letters, words, numbers, logo, watermark, cartoon, toy, low quality

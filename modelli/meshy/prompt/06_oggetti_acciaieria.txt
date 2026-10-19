@@ -1,0 +1,33 @@
+Create all the environment props listed below for the map "Vulcan Steelworks": an abandoned 1961 steel foundry with molten metal, in a first-person zombie shooter in the style of Call of Duty Black Ops Zombies.
+
+RULES FOR EVERY MODEL
+- Do not recreate a model that already exists. Skip it.
+- Maximum 1500 faces for small props (up to 1 m), maximum 4000 faces for big ones (ladle, crane hook, conveyor, beams, control console).
+- Triangle topology. Realistic style, PBR textures, 1024 px textures, worn, dirty and weathered, 1960s industrial look, soot, rust, heat.
+- One object per model, centered, no ground. No readable text, letters or numbers anywhere.
+- Real-world size given for each model. Export .glb with the given file name.
+
+NEGATIVE: text, letters, words, numbers, logo, watermark, base, pedestal, ground plane, multiple objects, cartoon, toy, low quality
+
+PROPS (file | size | prompt)
+ac_siviera.glb | 2.0 m | Steel mill ladle bucket full of glowing molten steel, thick refractory walls, hanging from crane hooks.
+ac_lingotti.glb | 1.2 m | Stack of steel ingots on a wooden pallet, dark oxidized metal.
+ac_stampi.glb | 1.5 m | Row of iron ingot molds with cooling slag.
+ac_travi.glb | 4.0 m | Pile of rusty steel I-beams stacked on wooden blocks.
+ac_gancio_gru.glb | 2.0 m | Huge crane hook with a pulley block and heavy chains, chipped yellow paint.
+ac_quadro_comandi.glb | 1.6 m | 1960s industrial control console with analog dials, levers, colored buttons and warning lamps, green-grey paint.
+ac_armadietti.glb | 1.9 m | Row of three dented metal worker lockers, one door open with a jacket inside.
+ac_caschi.glb | 1.0 m | Wall rack with old yellow hard hats and leather gloves hanging.
+ac_bombole.glb | 1.5 m | Group of three gas cylinders chained to a wall bracket, faded paint.
+ac_banco_morsa.glb | 2.0 m | Steel workbench with a vise, hammers, wrenches and metal shavings.
+ac_incudine.glb | 0.8 m | Blacksmith anvil on a wooden stump with tongs leaning on it.
+ac_carrello_rotaie.glb | 1.4 m | Small rusty mine cart on a short rail section, full of scrap metal.
+ac_nastro.glb | 3.0 m | Section of heavy industrial roller conveyor with steel rollers and a frame.
+ac_rottami.glb | 2.0 m | Pile of scrap metal: bent pipes, gears, sheet metal and chains.
+ac_fusto.glb | 0.9 m | Dented oil drum with leaking black oil, rust.
+ac_orologio_timbri.glb | 0.6 m | 1960s factory time clock punch machine on the wall with a card rack.
+ac_quadro_elettrico.glb | 1.8 m | Large electrical cabinet with the door open, fuses, thick cables and sparks.
+ac_trasformatore.glb | 1.8 m | Industrial electrical transformer with ceramic insulators and cooling fins.
+ac_lampada_industriale.glb | 0.6 m | 1960s industrial pendant lamp with an enamel shade.
+ac_scoria.glb | 1.5 m | Slag pot cart with cooling glowing slag.
+ac_tavolo_mensa.glb | 2.0 m | 1960s factory canteen table with metal chairs, lunch boxes and a thermos on top.

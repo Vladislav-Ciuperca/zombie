@@ -1,0 +1,35 @@
+Create all the game machines listed below for a first-person zombie shooter in the style of Call of Duty Black Ops Zombies.
+
+RULES FOR EVERY MODEL
+- Do not recreate a model that already exists. Skip it.
+- If an existing model is only missing its moving part, do only that: split the part and rename it, without regenerating the model.
+- Maximum 5000 faces per model (vending machines, crate, forge, power switch), maximum 1500 faces for small items (plank, trap lever, recorder).
+- Triangle topology. Realistic style, PBR textures, 1024 px textures, worn, dirty and weathered, 1930s to 1960s look.
+- One object per model, centered, no ground.
+- No readable text, letters or numbers anywhere: the vending machines show only a big emblem picture, the game adds the names later.
+- Moving parts must be separate objects with these exact names; everything else is one object named "corpo":
+  coperchio = lid of the weapon crate; leva = lever of the power switch and of the trap lever box.
+- Real-world size given for each model. Export .glb with the given file name.
+
+NEGATIVE: text, letters, words, numbers, logo, watermark, base, pedestal, ground plane, multiple objects, cartoon, toy, low quality
+
+PERK VENDING MACHINES — all 1950s soda vending machines, 1.0 x 0.8 m base, 2.0 m tall, chipped paint and rust, chrome trim, coin slot, glass window with bottles inside, glowing lights
+bibita_tempra.glb | Deep red paint, big round emblem of a shield on the front, red glass bottles.
+bibita_manolesta.glb | Green paint, emblem of a hand with motion lines, green bottles.
+bibita_passosvelto.glb | Blue paint, emblem of a running boot with wings, blue bottles.
+bibita_doppiocolpo.glb | Mustard yellow-orange paint, emblem of two crossed bullets, orange bottles.
+bibita_cadutalibera.glb | Purple paint, emblem of a falling star with an impact ring, purple bottles.
+bibita_scoppionero.glb | Matte black and charcoal grey paint, emblem of a black grenade bursting, dark bottles, dim lights.
+bibita_occhio.glb | Crimson and orange paint, emblem of a hawk eye inside a crosshair, orange-red bottles.
+bibita_secondavita.glb | Cyan turquoise paint, emblem of a heart with a rising arrow, cyan bottles.
+bibita_terzamano.glb | Olive green paint, emblem of three crossed rifles, olive bottles.
+bibita_scossa.glb | Electric blue paint, emblem of a lightning bolt, small tesla coil on top, glowing blue bottles.
+
+OTHER MACHINES (file | size | moving part | prompt)
+cassa_misteriosa.glb | 1.6 x 0.7 x 0.8 m | coperchio | Old wooden weapon crate with a hinged lid, iron corner brackets and padlock hasp, carved glowing blue runes on the sides, worn dark wood, chains.
+forgia.glb | 2.0 x 1.5 m, 2.5 m tall | none | Ancient arcane weapon-upgrade forge machine, massive iron furnace with an anvil in front, glowing orange molten core behind a grate, bellows, gears and pipes, chains wrapped around, skull ornaments.
+corrente.glb | 1.0 x 0.4 m, 1.8 m tall | leva | Large 1930s industrial power switch panel on a steel cabinet, big knife-switch lever with a red handle, dials and warning lamps, thick cables going up, worn grey paint.
+finestra.glb | 1.8 x 2.3 m | none | Broken prison window frame for a thick wall opening, empty with no planks, shattered glass shards in the corners, rusty iron frame with bent bars, concrete sill.
+asse.glb | 1.6 x 0.2 m | none | Single old wooden plank with rusty nails sticking out at both ends, cracked and dirty.
+leva_trappola.glb | 0.30 x 0.46 m | leva | Wall-mounted industrial trap lever box, yellow and black hazard striped metal casing, big pull lever with a red knob, small indicator lamp, rusty bolts.
+registratore.glb | 0.40 m | none | 1950s reel-to-reel tape recorder, two metal tape reels, brown leather case, chrome knobs and buttons.

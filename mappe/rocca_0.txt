@@ -1,0 +1,80 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~  ~~~~~~~~~~~~~~~~~~~~~~~   ~~~~~~~~~~~~~~~~   ~~~~~~~~~~~~~~~~ ~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~     ~~~~~~~~~~~~~~    ~~~~   ~~~~~~~~  ~~~~     ~~~~~~~~~~~~~~     ~~~~~~~~~~~~~~~~~~
+~~~~~~~            ~~~~~   ~~~~       ~~     ~~~~~             ~~~~~              ~~~~    ~~~~~~~~~~
+~~~~~~             ~~~                ~~                        ~~~               ~~~           ~~~~
+~~~~~                                                                                           ~~~~
+~~~~~                   ######WW########WW##########WW############WW############              ~~~~~~
+~~~~~                   ###eeeeeeeeeeeeeeeeeeee#fffffffffff#i00iiiiiii000iii00i#             ~~~~~~~
+~~~~~~                  ###eeeeeeeeeeeeeeeeeeee#f555555555f#iiiiiiiiiiiiiiiiiii#             ~~~~~~~
+~~~~~~                  #GG#ee11111ee11111eeeee#fffffffffff#iiiiiiiiiiiiiiiiiii#                 ~~~
+~~~~~~                  #GG#eeeeeeeeeeeeeeeeeee#fffffffffff#iiiiiiiiiiiiiiiiiii#                 ~~~
+~~~~~~                  #GG#eeeeeeeeeeeeeeeeeee#fffffffffff#iiiiiiiiiiiiiiiiiiiW                 ~~~
+~~~~~                   #GG#eeeeeeeeeeeeeeeeeee+f7fff55ffff#iiiiiiiiiiiiiiiiiiiW                ~~~~
+~~~~~                   #GG#ee11111ee11111eeeee+f7fff55ffff#iiiiiiiiiiiiiiiiiii#               ~~~~~
+~~~~~                   #GG#eeeeeeeeeeeeeeeeeee#f7fff55ffff#i4iii4iii4iii4iii4i#             ~~~~~~~
+~~~~~~                  #GG#eeeeeeeeeeeeeeeeeee#f7fff55ffff+iiiiiiiiiiiiiiiiiii#             ~~~~~~~
+~~~~~~                  #++#eeeeeeeeeeeeeeeeeee#f7fffffffff+iiiiiiiiiiiiiiiiiii#                 ~~~
+~~~~~~                  Weeeee11111ee11111eeeee#f7fffffffff#iiiiiiiiiiiiiiiiiii#                 ~~~
+~~~~~~                  Weeeeeeeeeeeeeeeeeeeeee#fffffffffff#iiiiiiiiiiiiiiiiiii#                 ~~~
+~~~~~                   #eeeeeeeeeeeeeeeeeeeeee#fffffffffff#iiiiiiiiiiiiiiiiiii#                ~~~~
+~~~~~                   ####+++########################+++######################               ~~~~~
+~~~~~                   #cccccccccc##22#22#22#22#22#22#aaa#22#22#22#22#22#22####             ~~~~~~~
+~~~~~~                  #cc0cccc0cc##aa#aa#aa#aa#aa#aa#aaa#aa#aa#aa#aa#aa#aa####             ~~~~~~~
+~~~~~~                  #cc0c11c0cc##aa#aa#aa#aa#aa#aa#aaa#aa#aa#aa#aa#aa#aa####                 ~~~
+~~~~~~                  Wcc0cccc0cc##aa#aa#aa#aa#aa#aa#aaa#aa#aa#aa#aa#aa#aa####                 ~~~
+~~~~~~                  Wcc0cccc0cc##||#||#||#||#||#||#aaa#||#||#||#||#||#||####                 ~~~
+~~~~~                   #cc0cccc0cc#aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa#                ~~~~
+~~~~~                   #cccccccccc#aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa|||||||aa#               ~~~~~
+~~~~~                   #cccccccccc+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa+BBBBBBBaa#             ~~~~~~~
+~~~~~~                  #cccccccccc+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa+BBBBBBBaa#             ~~~~~~~
+~~~~~~                  #cccccccccc+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa|||||||aaW                 ~~~
+~~~~~~                  #cccccccccc#aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaW                 ~~~
+~~~~~~                  #cc0cccc0cc#aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa#                 ~~~
+~~~~~                   Wcc0cccc0cc##||#||#||#||#||#||#aaa#||#||#||#||#||#||####                ~~~~
+~~~~~                   Wcc0cccc0cc##aa#aa#aa#aa#aa#aa#aaa#aa#aa#aa#aa#aa#aa####               ~~~~~
+~~~~~                   #cc0c11c0cc##aa#aa#aa#aa#aa#aa#aaa#aa#aa#aa#aa#aa#aa####             ~~~~~~~
+~~~~~~                  #cc0cccc0cc##aa#aa#aa#aa#aa#aa#aaa#aa#aa#aa#aa#aa#aa####             ~~~~~~~
+~~~~~~                  #cccccccccc##22#22#22#22#22#22#aaa#22#22#22#22#22#22####                 ~~~
+~~~~~~                  #####++########################+++######################                 ~~~
+~~~~~~ #########################################mmmmmmmmmmmmmmmmmmm#                             ~~~
+~~~~~  #########################################mm7mm7mm7mm7mm7mmmm#                            ~~~~
+~~~~~  #########################################mmmmmmmmmmmmmmmmmmm#                          ~~~~~~
+~~~~~  ####kkkkkkkkkkkkkkkkkkkkkkkk3kkkkkkkk####mmmmmmmmmmmmmmmmmmmW                         ~~~~~~~
+~~~~~~ ####kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk###+mmmmmmmmmmmmmmmmmmmW                         ~~~~~~~
+~~~~~~ ####kkk###########################kkk###+mmm111111mm111111mm#                             ~~~
+~~~~~~ ####kkk###########################kkk####mmm111111mm111111mm#                             ~~~
+~~~~~~ ####kkk######kkkkkkkkkkkkkkkkkkkkkkkk####mmmmmmmmmmmmmmmmmmm#                             ~~~
+~~~~~  ####kkk######kkkkkkkkkkkkkkkkkkkkkk3k####mmmmmmmmmmmmmmmmmmm#                            ~~~~
+~~~~~  ####k3k######kkk##################k3k####mmmmmmmmmmmmmmmmmmm#                          ~~~~~~
+~~~~~  ####k3k######kkk##################kkk########WW########++####                         ~~~~~~~
+~~~~~~ ####kkk######kkk#######KK#########kkk###              #LL#                            ~~~~~~~
+~~~~~~ ####kkk######kkk#######KK#########kkk###              #LL#                                ~~~
+~~~~~~ ####kkk######kkk#######KK#########kkk###              #LL#                          ~~~~~~~~~
+~~~~~  ####kkk######k3k#######KK#########kkk###              #LL#                          ~~~~~~~~~
+~~~~~  ####kkk######kkk#######KK#########kkk###              #LL#                          ~~~~~~~~~
+~~~~~  ####kkk######kkk#######KK#########kkk###     lllllllllllllllllllllllllllllllllllllll~~~~~~~~~
+~~~~~  ####kkk######kkk#######KK#########kkk###     4lllllllllllll33ll4lllllllllllll4llllll~~~~~~~~~
+~~~~~~ ####kkk######kkk#######++#########kkk########lllllllllllllllllllllllllllllllllllllll~~~~~~~~~
+~~~~~~ ####kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkKKKK+lllllllllllllllllllllllllllllllllllllll~~~~~~~~~
+~~~~~~ ####kkkkkkkkkkkkkk3kkkkkkkkkkkkkkkkkkkkkKKKK+llllllll33llllllllllllllllll3llllllllll~~~~~~~~~
+~~~~~  ####kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkKKKK+lllllllllllllllllllllllllllllllllllllll~~~~~~~~~
+~~~~~  #############################################~~~llll~~~~~~~~~~~~~~~~llll~~~~~~~lllll~~~~~~~~~
+~~~~~  ########################################     ~~~llll~~~~~~~~~~~~~~~~llll~~~~~~~ll3ll~~~~~~~~~
+~~~~~  ########################################     ~~~llll~~~~~~~~~~~~~~~~llll~~~~~~~lllll~~~~~~~~~
+~~~~~~                                              ~~~llll~~~~~~~~~~~~~~~~llll~~~~~~~lllll~~~~~~~~~
+~~~~~~~                                             ~~~llll~~~~~~~~~~~~~~~~llll~~~~~~~~~~~~~~~~~~~~~
+~~~~~~              ~~                        ~~    ~~~ll4l~~~~~~~~~~~~~~~~ll4l~~~~~~~~~~~~~~~~~~~~~
+~~~~~~            ~~~~~              ~~~~~   ~~~~   ~~~llll~~~~~~~~~~~~~~~~llll~~~~~~~~~~~~~~~~~~~~~
+~~~~~~    ~~~~~~~~~~~~~     ~~~~   ~~~~~~~   ~~~~   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~   ~~~~~~~~~~~~~~~   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

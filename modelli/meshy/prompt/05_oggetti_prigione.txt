@@ -1,0 +1,37 @@
+Create all the environment props listed below for the map "Black Rock Penitentiary": a derelict 1938 island prison, in a first-person zombie shooter in the style of Call of Duty Black Ops Zombies.
+
+RULES FOR EVERY MODEL
+- Do not recreate a model that already exists. Skip it.
+- Maximum 1500 faces for small props (up to 1 m), maximum 4000 faces for big ones (boiler, rowboat, mess table, bunk bed).
+- Triangle topology. Realistic style, PBR textures, 1024 px textures, worn, dirty and weathered, 1930s look, abandoned and bloody.
+- One object per model, centered, no ground. No readable text, letters or numbers anywhere.
+- Real-world size given for each model. Export .glb with the given file name.
+
+NEGATIVE: text, letters, words, numbers, logo, watermark, base, pedestal, ground plane, multiple objects, cartoon, toy, low quality
+
+PROPS (file | size | prompt)
+pr_branda.glb | 2.0 m | 1930s prison bunk bed, rusty iron frame, thin stained mattress, torn grey wool blanket.
+pr_wc_lavandino.glb | 0.9 m | Prison cell steel toilet and sink combo unit, stained and rusty.
+pr_tavolo_mensa.glb | 3.0 m | Prison mess hall steel table with attached round stools, scratched and dirty, food trays on top.
+pr_vassoio.glb | 0.4 m | Dented metal prison food tray with spilled grey slop and a spoon.
+pr_cucina_stufa.glb | 1.5 m | 1930s industrial cast-iron kitchen stove with large pots on top, grease and soot.
+pr_pentolone.glb | 0.6 m | Huge dented aluminium cooking pot with a ladle, burned bottom.
+pr_ganci_carne.glb | 2.0 m | Ceiling rail with rusty meat hooks and chains.
+pr_doccia.glb | 2.2 m | Row of three old prison shower heads on exposed rusty pipes with valves.
+pr_letto_ospedale.glb | 2.0 m | 1930s hospital bed with leather restraint straps, iron frame, stained sheets.
+pr_armadietto_medico.glb | 1.8 m | White enamel medical cabinet with glass doors, old bottles and jars inside, chipped paint.
+pr_flebo.glb | 1.8 m | Old IV drip stand on wheels with a glass bottle.
+pr_sedia_rotelle.glb | 1.0 m | 1930s wooden and wicker wheelchair, broken.
+pr_scrivania_direttore.glb | 1.8 m | 1930s warden's wooden desk with a typewriter, desk lamp, scattered papers and an ashtray.
+pr_schedario.glb | 1.3 m | Metal filing cabinet with one drawer pulled open and papers sticking out, dented.
+pr_caldaia.glb | 3.0 m | Large riveted industrial boiler from the 1930s, pipes, pressure gauges, valve wheels, soot and rust.
+pr_carbone.glb | 1.5 m | Pile of coal with a shovel stuck in it.
+pr_faro_torretta.glb | 1.0 m | Old guard tower searchlight on a swivel mount, cracked lens.
+pr_filo_spinato.glb | 3.0 m | Section of prison fence with wooden posts and coiled barbed wire.
+pr_barca.glb | 4.0 m | Old wooden rowboat with oars, peeling paint, water stains.
+pr_bitta.glb | 0.5 m | Cast-iron mooring bollard on a dock with a coiled rope.
+pr_lanterna.glb | 0.35 m | Old kerosene lantern with a cracked glass.
+pr_altoparlante.glb | 0.5 m | 1930s horn loudspeaker mounted on a wall bracket with cables.
+pr_lampada_gabbia.glb | 0.4 m | Industrial caged ceiling lamp with an old bulb.
+pr_secchio_mocio.glb | 0.9 m | Mop in a dented metal bucket with dirty water.
+pr_camicia_forza.glb | 0.9 m | Torn straitjacket hanging on a wall hook, stained canvas and leather straps.

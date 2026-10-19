@@ -1,0 +1,36 @@
+Create all the zombie characters listed below for a first-person zombie shooter in the style of Call of Duty Black Ops Zombies.
+There are three maps: a 1938 island prison, a 1961 steel foundry, and a 1963 Alcatraz-style island prison. Four zombie types per map.
+
+RULES FOR EVERY MODEL
+- Three zombies already exist. Do not recreate them: match each existing zombie to the most similar type in the list, rename it with that file name, and create only the missing types.
+- If an existing zombie is only missing the rig, add only the rig, without regenerating the model.
+- No animations: the game animates the skeleton by itself. Only the rig is needed (bones and skin weights, humanoid, Mixamo-compatible bone names, same skeleton for all zombies).
+- Maximum 15000 faces per character. Triangle topology. Symmetry on.
+- Realistic style, PBR textures, 1024 px textures, horror, rotten skin, glowing orange eyes unless stated otherwise.
+- Same base body for all: adult human, 1.8 m tall, realistic proportions, full body, T-pose with arms straight out to the sides, standing straight, feet on the ground.
+- Nothing hanging far from the body (it would rig badly). No weapons in the hands.
+- No readable text, letters or numbers on clothes or badges: use plain patches instead.
+- Export .glb with the given file name.
+
+NEGATIVE: text, letters, words, numbers, logo, watermark, base, pedestal, ground plane, multiple characters, weapon, cartoon, chibi, big head, toy, low quality
+
+1938 ISLAND PRISON (file | prompt)
+zombie_prigione_detenuto.glb | Zombie prisoner in a torn black-and-white striped prison uniform with a plain patch on the chest, rotten grey-green skin, sunken glowing orange eyes, broken teeth, bloody shirt, barefoot with torn trousers.
+zombie_prigione_guardia.glb | Zombie prison guard in a dark grey wool uniform with brass buttons, peaked cap, leather belt with empty holster and keys, torn sleeve, rotten pale skin, glowing orange eyes, bite wounds on the neck.
+zombie_prigione_isolamento.glb | Emaciated zombie inmate from solitary confinement in a torn dirty straitjacket with loose straps, shaved head with stitches, very thin pale bruised skin, wild glowing orange eyes, open screaming mouth, bare feet.
+zombie_prigione_infermiere.glb | Zombie prison infirmary orderly in a stained white medical coat over grey clothes, torn surgical mask hanging from the neck, rubber gloves, blood splatter, rotten skin, glowing orange eyes.
+
+1961 STEEL FOUNDRY (file | prompt)
+zombie_acciaieria_operaio.glb | Zombie steel mill worker in soot-covered blue work overalls, dented yellow hard hat, heavy work boots, leather gloves, burned and blackened skin with ash, glowing orange eyes.
+zombie_acciaieria_fonditore.glb | Zombie foundry smelter in a thick burned leather apron and heat-resistant sleeves, cracked protective face visor pushed up on the head, scorched skin with blisters and soot, glowing orange eyes.
+zombie_acciaieria_meccanico.glb | Zombie factory maintenance mechanic in a grease-stained grey jumpsuit, old rubber gas mask with cracked round lenses, tool belt, torn knees, rotten grey skin on the arms, glowing orange eyes behind the lenses.
+zombie_acciaieria_ferrofuso.glb | Molten metal zombie: body of cooling black slag and charred flesh with glowing orange-yellow lava cracks all over, remains of burned work overalls, drips of molten metal, glowing white-hot eyes and mouth, heavy and bulky.
+
+1963 ALCATRAZ-STYLE ISLAND PRISON (file | prompt)
+zombie_rocca_detenuto.glb | Zombie inmate in a faded blue chambray work shirt with a plain patch and grey denim trousers, rotten skin, glowing orange eyes, torn and bloody clothes, prison work shoes.
+zombie_rocca_secondino.glb | Zombie prison guard in a 1960s navy blue uniform with a peaked cap and a plain metal badge, black tie, leather belt with a baton holder, bitten arm, rotten pale skin, glowing orange eyes.
+zombie_rocca_annegato.glb | Drowned zombie inmate pulled from the bay, bloated waterlogged pale blue-grey skin, seaweed and barnacles on the body, soaked torn prison clothes, dripping wet, chain shackle on one ankle, cloudy glowing eyes.
+zombie_rocca_fulminato.glb | Zombie executed on the electric chair, shaved head with burn marks from the electrode cap, charred skin with branching lightning scars, smoking grey prison jumpsuit, faint blue electric glow in the eyes and veins.
+
+OPTIONAL BOSS (file | prompt) — same rules, can be taller and bulkier
+boss_capomastro.glb | Giant zombie foreman of a steel mill, huge muscular body, torn leather apron and heavy chains around the shoulders, welded steel plates bolted to the chest, burned face with a cracked welding mask, glowing orange eyes.

@@ -1,0 +1,4 @@
+# file temporanei di Python e degli script
+__pycache__/
+*.pyc
+modelli/_tmp_tex.png

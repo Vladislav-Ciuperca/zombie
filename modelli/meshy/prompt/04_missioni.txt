@@ -1,0 +1,40 @@
+Create all the quest objects listed below for a first-person zombie shooter in the style of Call of Duty Black Ops Zombies (easter egg items).
+
+RULES FOR EVERY MODEL
+- Do not recreate a model that already exists. Skip it.
+- Maximum 1500 faces for small objects (up to 1 m), maximum 5000 faces for big ones (airplane, cable car, electric chair, sarcophagus, altar, workbench).
+- Triangle topology. Realistic style, PBR textures, 1024 px textures, worn, dirty and weathered.
+- One object per model, centered, no ground. No readable text, letters or numbers anywhere.
+- Real-world size given for each model. Export .glb with the given file name.
+
+NEGATIVE: text, letters, words, numbers, logo, watermark, base, pedestal, ground plane, multiple objects, cartoon, toy, low quality
+
+1938 ISLAND PRISON (file | size | prompt)
+ee_chiave.glb | 0.15 m | Old large iron skeleton key with an ornate bow, rusty and heavy.
+ee_manopola.glb | 0.6 m | Large red cast-iron valve wheel on a short pipe stub, chipped paint, rust.
+
+1961 STEEL FOUNDRY (file | size | prompt)
+ee_crogiolo.glb | 1.4 m | Small foundry crucible ladle on a tilting iron stand with a handwheel, glowing molten metal inside, soot and slag.
+ee_elisir.glb | 0.25 m | Glass flask of glowing silver liquid metal elixir with a cork, iron cage around the bottle.
+ee_teschio_parete.glb | 0.3 m | Human skull fixed to a rusty iron wall plate with nails, burning embers in the eye sockets.
+ee_campana.glb | 0.6 m | Old bronze bell hanging from a riveted iron bracket, green patina and soot.
+ee_braciere.glb | 1.0 m | Iron brazier on three legs with burning coals and small flames, blackened metal.
+ee_altare.glb | 2.0 m | Dark ritual altar made of foundry iron and bones, stone slab with iron spikes, melted candles, ash.
+ee_sarcofago.glb | 2.2 m | Iron sarcophagus with a heavy lid, molten orange cracks glowing in the seams, chains, carved symbols without letters.
+
+1963 ALCATRAZ-STYLE ISLAND PRISON (file | size | prompt)
+ee_scudo_carrello.glb | 1.1 m | Old two-wheel hand truck dolly, rusty steel frame, worn rubber wheels.
+ee_scudo_anta.glb | 1.0 x 0.6 m | Detached steel prison cell door panel with vertical bars and a small food slot, rusty and dented.
+ee_scudo_morsa.glb | 0.35 m | Heavy cast-iron bench vise clamp, rusty.
+ee_aereo_serbatoio.glb | 0.7 m | Old aircraft fuel tank, dented aluminium cylinder with straps and a cap.
+ee_aereo_sartiame.glb | 0.8 m | Coiled bundle of aircraft rigging cables and ropes with metal pulleys and hooks.
+ee_aereo_valvola.glb | 0.4 m | Brass engine valve assembly with pipes and a small pressure gauge.
+ee_aereo_motore.glb | 1.0 m | Small vintage radial airplane engine, cylinders with cooling fins, oily and rusty.
+ee_aereo_elica.glb | 1.8 m | Wooden two-blade vintage airplane propeller with a metal hub, chipped varnish.
+ee_aereo.glb | 8 m wingspan | Rickety homemade 1960s biplane built from scrap, patched fabric wings, wooden struts, radial engine, wooden propeller, mismatched metal panels.
+ee_testa_cane.glb | 1.0 m | Large demonic three-eyed hound head statue on a stone wall plaque, black iron with red glowing eyes and open fanged jaws, smoke.
+ee_teschio_acido.glb | 0.25 m | Human skull glowing with eerie green light from inside, cracked bone.
+ee_kit_acido.glb | 0.5 m | Homemade acid conversion kit on a small tray: glass canisters of glowing green acid, rubber tubes, clamps and metal brackets.
+ee_sedia_elettrica.glb | 1.2 m | Old wooden electric chair with leather straps on the arms and legs, metal electrode helmet hanging above, thick cables, scorch marks.
+ee_funivia.glb | 2.5 m | Small rusty cable car gondola cabin for two people, riveted steel, broken windows, hanger arm with wheels on top.
+ee_banco_lavoro.glb | 2.0 m | Heavy wooden workbench with a vise, scattered tools, scrap metal and wires.

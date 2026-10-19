@@ -1,0 +1,43 @@
+Create all the weapon 3D models listed below for a first-person zombie shooter in the style of Call of Duty Black Ops Zombies.
+
+RULES FOR EVERY MODEL
+- Do not recreate a model that already exists (same file name or an equivalent weapon already made). Skip it.
+- If an existing model is only missing its moving parts, do only that: split those parts and rename them, without regenerating the model.
+- Maximum 3000 faces per weapon. Triangle topology.
+- Realistic style, PBR textures, 2048 px textures, period weapons from the 1930s to the 1960s, worn and used: scratched blued steel, chipped wood, rust spots.
+- One weapon per model, no hands, no stand, no ground, centered, side view.
+- No readable text, letters, logos or serial numbers anywhere.
+- Real-world size given for each weapon. Export .glb with the given file name.
+- Moving parts used by the reload animation must be separate objects with these exact names; everything else is one object named "corpo":
+  mag = magazine, drum or ammo box; bolt = bolt with its handle; slide = charging handle or slide; pump = pump grip;
+  brl = everything in front of the hinge (barrels and fore-end) on break-action weapons; cyl = revolver cylinder;
+  lid = top cover over the ammo belt; cell = replaceable energy cell or canister.
+
+NEGATIVE: text, letters, words, logo, watermark, serial number, hands, base, pedestal, ground plane, multiple objects, cartoon, toy, low quality
+
+WEAPONS (file | size | moving parts | prompt)
+arma_toro.glb | 0.30 m | cyl | Heavy six-shot revolver, 1930s, blued steel worn to bare metal at the edges, long barrel, cracked dark wooden grip.
+arma_lince.glb | 0.90 m | bolt, mag | Military carbine like an M1 Carbine, 1940s, short wooden stock with scratches, 15-round box magazine, worn steel, leather sling.
+arma_vespa.glb | 0.70 m | mag, slide | 1940s submachine gun like an MP40, folding metal stock, long straight box magazine underneath, worn black steel with rust spots.
+arma_tuono.glb | 0.85 m | mag (the drum) | Classic 1930s tommy gun with a round drum magazine, wooden stock and front vertical grip, ribbed barrel, worn blued steel.
+arma_doppietta.glb | 1.00 m | brl | Double-barrel side-by-side shotgun, sawn-off barrels, worn walnut stock with checkering, exposed hammers, tarnished steel.
+arma_cinghiale.glb | 1.05 m | pump | Pump-action police shotgun, 1950s, wooden pump grip and stock, tube magazine under the barrel, scratched black steel.
+arma_falco.glb | 1.00 m | mag, slide | Cold War assault rifle like an AK-47, curved 30-round magazine, worn wooden handguard and stock, stamped steel receiver with rust.
+arma_aquila.glb | 1.20 m | bolt, mag | Bolt-action sniper rifle, 1940s, long wooden stock, large telescopic scope on rings, worn blued steel, leather sling.
+arma_orso.glb | 1.10 m | lid, mag | Belt-fed light machine gun like an M60, bipod folded under the barrel, carry handle, ammo belt hanging from the side, tall rear sight, worn olive and black metal.
+arma_mastino.glb | 1.20 m | lid, mag | Heavy belt-fed machine gun like an MG42, perforated barrel shroud, bipod, ammo box on the side with a long bullet belt, worn dark steel.
+arma_bisonte.glb | 1.30 m | lid, mag | Very heavy machine gun like a Browning M1919 carried by hand, thick cooling jacket on the barrel, pistol grip and front handle, green ammo can with brass belt.
+arma_lupo.glb | 1.00 m | mag, slide | Battle rifle like an FN FAL, 1960s, black and wood furniture, 20-round magazine, carry handle, scratched steel.
+arma_faina.glb | 0.50 m | mag, slide | Compact machine pistol like an Uzi, folding wire stock, magazine inside the pistol grip, worn matte black steel.
+arma_cervo.glb | 1.10 m | mag, slide | Military marksman rifle like an M14, long wooden stock, 20-round magazine, peep sight, worn steel.
+arma_fulminatore.glb | 0.45 m | cell | Retro 1930s electric ray gun pistol, brass and copper body, glass tube with blue lightning inside, small tesla coil rings on the barrel, bakelite grip, glowing blue parts, mad scientist prototype.
+arma_aurora.glb | 1.00 m | cell | Ancient-looking laser rifle forged in a steel foundry, blackened iron body, glowing red-orange crystal core, cooling fins, cables, molten cracks glowing on the barrel.
+arma_spingarda.glb | 0.80 m | brl | Blunderbuss-style double-barrel weapon like the Blundergat, brass flared bell muzzles, dark wood stock wrapped with leather, iron bands, old prison-made look.
+arma_spingarda_acida.glb | 0.85 m | cell (one acid canister) | The same blunderbuss double-barrel weapon upgraded with glass canisters of glowing green acid strapped on the sides, rubber tubes feeding the barrels, metal clamps, dripping green liquid.
+
+EQUIPMENT (file | size | prompt) — no moving parts, maximum 3000 faces
+eq_granata.glb | 0.12 m | WWII fragmentation hand grenade, olive green painted metal body with grid pattern, spoon lever and pull ring, worn paint.
+eq_carillon.glb | 0.20 m | Antique wind-up music box with a small brass key and a tiny dancing figure on top, dynamite sticks taped around it with wires, wooden box with brass corners.
+eq_coltello.glb | 0.30 m | Military combat knife, 1940s, blackened steel blade with a worn edge, leather washer handle, brass guard.
+eq_tomahawk.glb | 0.50 m | Infernal tomahawk axe, dark iron blade with glowing red runes and embers, bone handle wrapped in old leather, small chains, cursed and demonic.
+eq_scudo.glb | 1.10 x 0.60 m | Makeshift riot shield made from a steel prison cell door panel with bars, welded to a hand truck dolly frame, clamps and leather straps on the back, rusty and dented.

@@ -1,0 +1,33 @@
+Create all the environment props listed below for the map "The Rock": a 1963 Alcatraz-style island prison surrounded by the sea, in a first-person zombie shooter in the style of Call of Duty Black Ops Zombies (Mob of the Dead).
+
+RULES FOR EVERY MODEL
+- Do not recreate a model that already exists. Skip it.
+- Maximum 1500 faces for small props (up to 1 m), maximum 4000 faces for big ones (water tower, guard tower, bookshelf, mess table, washing machine).
+- Triangle topology. Realistic style, PBR textures, 1024 px textures, worn, dirty and weathered, 1960s look, salt and sea damage.
+- One object per model, centered, no ground. No readable text, letters or numbers anywhere.
+- Real-world size given for each model. Export .glb with the given file name.
+
+NEGATIVE: text, letters, words, numbers, logo, watermark, base, pedestal, ground plane, multiple objects, cartoon, toy, low quality
+
+PROPS (file | size | prompt)
+ro_branda.glb | 2.0 m | 1960s prison cell bunk with a folded grey blanket and a pillow, steel frame bolted to the wall.
+ro_mensola_cella.glb | 0.8 m | Small prison cell wall shelf with a few books, a tin cup and a toothbrush.
+ro_libreria.glb | 2.2 m | Tall wooden prison library bookshelf full of old books, some books fallen.
+ro_tavolo_lettura.glb | 2.0 m | Long wooden library reading table with chairs and open books.
+ro_schedario_libri.glb | 1.2 m | Wooden card catalog cabinet with many small drawers.
+ro_lavatrice.glb | 1.5 m | 1960s industrial laundry washing machine with a round door.
+ro_carrello_biancheria.glb | 1.0 m | Canvas laundry cart on wheels full of dirty prison clothes.
+ro_pressa_stiro.glb | 1.3 m | Old industrial laundry ironing press machine.
+ro_tavolo_mensa.glb | 3.0 m | Long prison mess hall wooden table with benches, metal cups and trays.
+ro_lacrimogeno.glb | 0.3 m | Ceiling-mounted tear gas canister dispenser, metal cylinder.
+ro_salvagente.glb | 0.8 m | Old life ring buoy hanging on a wooden post, faded red and white.
+ro_reti.glb | 1.5 m | Pile of fishing nets with cork floats and a rope.
+ro_boa.glb | 1.5 m | Rusty navigation buoy with a lamp on top.
+ro_cisterna.glb | 6.0 m | Old steel water tower on four legs with a ladder, rust streaks.
+ro_casse_molo.glb | 1.5 m | Stack of wooden shipping crates with rope nets.
+ro_torretta_guardia.glb | 4.0 m | Small concrete guard tower with a searchlight and railing.
+ro_sirena.glb | 0.6 m | Old mechanical air raid siren on a pole bracket.
+ro_cartello_divieto.glb | 1.0 m | Weathered metal warning sign on a post with only a red symbol and no words.
+ro_scrivania_direttore.glb | 1.8 m | 1960s warden office desk with a rotary phone, ashtray, files and a desk lamp.
+ro_cassaforte.glb | 1.0 m | Heavy old safe with a dial, door ajar.
+ro_lampione.glb | 4.0 m | Old cast-iron yard street lamp post with a caged light.
